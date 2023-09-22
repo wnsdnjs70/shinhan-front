@@ -35,7 +35,7 @@ const Home = () => {
       </div>
       <div className={styles.container}>
         <section className={styles.header}>
-          <div className={styles.headerSubTitle}>지금 계좌 개설하면</div>
+          <div className={styles.headerSubTitle}>내일 계좌 개설하면</div>
           <div className={styles.headerTitle}>
             <span className={styles.primaryColor}>수수료 평생혜택</span> 제공
           </div>
